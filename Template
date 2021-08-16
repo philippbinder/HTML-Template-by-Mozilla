@@ -20,7 +20,7 @@
           </li>
           <li>
             <label for="msg"> Message: </label>
-            <textarea id="msg" type="text" name="user_message"> Write your message here... </textarea"
+            <textarea id="msg" type="text" name="user_message"> Write your message here... </textarea>
           </li>
         </ul>
       </form>
