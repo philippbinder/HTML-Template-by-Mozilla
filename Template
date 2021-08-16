@@ -12,7 +12,7 @@
         <ul>
           <li> 
             <label for="name">  Name: </label>
-            <input id="name" type="text" name="user_name">
+            <input id="name" type="text" name="user_name" value="The value attribute inside this tag defines the pre written text in it's text field.">
           </li>
           <li> 
             <label for="mail"> E-Mail: </label>
