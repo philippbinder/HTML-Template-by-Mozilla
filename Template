@@ -5,6 +5,25 @@
     <title>My test page</title>
   </head>
   <body>
-    <p>This is my page</p>
+  
+      <p>This is my page</p>
+      
+      <form> 
+        <ul>
+          <li> 
+            <label for="name">  Name: </label>
+            <input id="name" type="text" name="user_name">
+          </li>
+          <li> 
+            <label for="mail"> E-Mail: </label>
+            <input id="mail" type="email" name="user_email">
+          </li>
+          <li>
+            <label for="msg"> Message: </label>
+            <textarea id="msg" type="text" name="user_message"> Write your message here... </textarea"
+          </li>
+        </ul>
+      </form>
+      
   </body>
 </html>
