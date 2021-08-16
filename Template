@@ -22,6 +22,9 @@
             <label for="msg"> Message: </label>
             <textarea id="msg" type="text" name="user_message"> Write your message here </textarea>
           </li>
+          <li id="button">
+            <button type="submit"> Send you message here </button>
+          </li>
         </ul>
       </form>
       
